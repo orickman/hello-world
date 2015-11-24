@@ -1,0 +1,4 @@
+MacBook-Pro:~ rkuiren$ git config  -l
+user.name=orickman
+user.email=rman.kui@gmail.com
+color.ui=auto
